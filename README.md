@@ -3,7 +3,7 @@
 
 ## 🔍 Details
 
-### `session2_3/`
+### `session2_3/starknet_counter`
 
 This directory contains:
 
