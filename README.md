@@ -23,7 +23,7 @@ This directory contains:
 
 ### Compile and Test Contracts
 
-- cd session2_3
+- cd session2_3/starknet_counter
 - yarn compile
 - yarn test
 
