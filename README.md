@@ -14,9 +14,7 @@ This directory contains:
 ### `frontend/hello-xyz/`
 
 - A frontend dApp built using [Scaffold-Stark](https://github.com/OnlyDustXYZ/scaffold-stark).
-- Implements interaction with the deployed contracts from Sessions 2 & 3.
-- Does **not** include any contract code – strictly frontend logic.
-
+- Perform interaction with Carlos contract, not contracts from **Sessions 2 & 3**.
 ---
 
 ## 🚀 Getting Started
