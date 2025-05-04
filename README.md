@@ -10,11 +10,13 @@ This directory contains:
 - Cairo 1 smart contracts developed during Sessions 2 & 3.
 - Tests written using the Starknet testing framework.
 - Structured as a Scarb project for compilation and testing.
+**Note**: This part does not include or use any frontend. The frontend code is located separately in the frontend/ folder. 
 
 ### `frontend/hello-xyz/`
 
 - A frontend dApp built using [Scaffold-Stark](https://github.com/OnlyDustXYZ/scaffold-stark).
-- Perform interaction with Carlos contract, not contracts from **Sessions 2 & 3**.
+- Only interacts with the Carlos contract.
+- Does not include nor interact with the smart contracts or tests from Sessions 2 & 3.
 ---
 
 ## 🚀 Getting Started
