@@ -10,7 +10,7 @@ This directory contains:
 - Cairo 1 smart contracts developed during Sessions 2 & 3.
 - Tests written using the Starknet testing framework.
 - Structured as a Scarb project for compilation and testing.
-- **Note**: This part does not include or use any frontend. The frontend code is located separately in the frontend/ folder. 
+- **Note**: This part does not include or use any frontend. The frontend code is located separately in the frontend/hello-xyz. 
 
 ### `frontend/hello-xyz/`
 
